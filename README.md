@@ -1,3 +1,5 @@
+![Qatar Image](qatar.jpg)
+
 # Qatar Airways Customer Review Analysis
 
 This project presents the analysis of customer reviews for Qatar Airways, scraped from a popular airline review site. The primary goal of the analysis is to identify key factors influencing customers' likelihood to recommend the airline to others. Insights derived from this analysis aim to provide actionable recommendations to improve Qatar Airways' service quality and overall customer satisfaction.
